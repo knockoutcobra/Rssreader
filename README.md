@@ -211,4 +211,4 @@ RssReader is offered as a full free version with all features and updates includ
 Get started with RssReader today and take control of your news consumption effortlessly!
 
 ---
-**Last updated:** 2026-10-18 11:47:52 UTC
+**Last updated:** 2026-10-18 14:56:08 UTC
